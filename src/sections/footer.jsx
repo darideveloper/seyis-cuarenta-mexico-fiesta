@@ -57,7 +57,7 @@ export default function Footer() {
       </section>
 
       <small className="text-white text-xsm text-center w-full block pt-10 pb-5">
-        2026 - All Rights Reserved Lori&apos;s Birthday Celebration &nbsp; | &nbsp; Powered by <a className="hover:text-gold" href="https://api.whatsapp.com/send?phone=5214493402622" target="_blank">Dari Developer</a>
+        2026 - All Rights Reserved Lori&apos;s Birthday Celebration &nbsp; | &nbsp; Powered by <a className="hover:text-gold" href="https://api.whatsapp.com/send?phone=5214493402622" target="_blank" rel="noreferrer">Dari Developer</a>
       </small>
     </footer>
   )

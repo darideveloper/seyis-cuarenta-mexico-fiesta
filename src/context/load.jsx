@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import { createContext, useState, useEffect } from 'react'
 
 export const LoadContext = createContext()
@@ -32,6 +33,10 @@ export function LoadContextProvider ({children}) {
       {children}
     </LoadContext.Provider>
   )
-} 
+}
+
+LoadContextProvider.propTypes = {
+  children: PropTypes.node.isRequired,
+}
 
 export default LoadContext

@@ -17,6 +17,7 @@ export default function Select ({label, activeOption="", name, handleUpdate, opt
 
 Select.propTypes = {
   label: PropTypes.string.isRequired,
+  activeOption: PropTypes.string,
   placeholder: PropTypes.string,
   name: PropTypes.string.isRequired,
   handleUpdate: PropTypes.func.isRequired,

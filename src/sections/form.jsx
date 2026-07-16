@@ -23,7 +23,7 @@ import Swal from 'sweetalert2'
 
 export default function Form() {
 
-  const { loading, setLoading } = useContext(LoadContext)
+  const { setLoading } = useContext(LoadContext)
 
   const [transports, setTransports] = useState([])
   const [activeTransportType, setActiveTransportType] = useState("Arriving,Departing")
@@ -103,7 +103,7 @@ export default function Form() {
       total += hotel_obj.price * multiplier
     }
     setTotal(total)
-  }, [hotel, activeTransportPrice])
+  }, [hotel, activeTransportPrice, activeTransportType, hotels])
 
 
   function getArraivingDepartingForm() {

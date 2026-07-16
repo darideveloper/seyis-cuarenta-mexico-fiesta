@@ -33,6 +33,7 @@ export default function Menu () {
                 href={link} 
                 className="py-5 block text-lg text-center text-white opacity-80 uppercase sm:px-5 hover:text-gold hover:opacity-100"
                 target={blank ? "_blank" : "_self"}
+                rel={blank ? "noreferrer" : undefined}
                 >{text}</a>
             </li>)
           })}

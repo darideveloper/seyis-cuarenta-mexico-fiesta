@@ -1,11 +1,11 @@
 import PropTypes from 'prop-types'
 import { useEffect, useState } from 'react'
 
-export default function TransportType ({id, text, price, handleUpdateType, transportType, initialActive}) {
+export default function TransportType ({id, text, price, handleUpdateType, transportType}) {
 
   const [hover, setHover] = useState (false)
 
-  function handleChange (e) {
+  function handleChange () {
     // Submit activate checked to parent
     handleUpdateType (id)
   }
@@ -23,7 +23,7 @@ export default function TransportType ({id, text, price, handleUpdateType, trans
       setHover (false)
     })
 
-  }, [])
+  }, [id])
 
   return (
     <div className="transport-type">
@@ -57,5 +57,4 @@ TransportType.propTypes = {
   price: PropTypes.number.isRequired,
   handleUpdateType: PropTypes.func.isRequired,
   transportType: PropTypes.string.isRequired,
-  initialActive: PropTypes.bool.isRequired,
 }

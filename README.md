@@ -1,5 +1,5 @@
-<div><a href='https://github.com/darideveloper/will-ryan-airport-transfers/blob/master/LICENSE' target='_blank'>
-                <img src='https://img.shields.io/github/license/darideveloper/will-ryan-airport-transfers.svg?style=for-the-badge' alt='MIT License' height='30px'/>
+<div><a href='https://github.com/darideveloper/loris-birthday-celebration/blob/master/LICENSE' target='_blank'>
+                <img src='https://img.shields.io/github/license/darideveloper/loris-birthday-celebration.svg?style=for-the-badge' alt='MIT License' height='30px'/>
             </a><a href='https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/' target='_blank'>
                 <img src='https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=' alt='Linkedin' height='30px'/>
             </a><a href='https://t.me/darideveloper' target='_blank'>
@@ -14,15 +14,15 @@
                 <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=' alt='Gmail' height='30px'/>
             </a><a href='https://www.twitch.tv/darideveloper' target='_blank'>
                 <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Twitch&color=b9a3e3&logo=Twitch&logoColor=ffffff&label=' alt='Twitch' height='30px'/>
-            </a></div><div align='center'><br><br><img src='https://github.com/darideveloper/will-ryan-airport-transfers/blob/master/public/imgs/favicon.png?raw=true' alt='Will Ryan Airport Transfers' height='80px'/>
+            </a></div><div align='center'><br><br><img src='https://github.com/darideveloper/loris-birthday-celebration/blob/master/public/imgs/favicon.png?raw=true' alt="Lori's Birthday Celebration" height='80px'/>
 
 
 
-# Will Ryan Airport Transfers
+# Lori's Birthday Celebration
 
-Visit at: **[cancunconciergedmc.com/will-ryan-airport-transfers](https://cancunconciergedmc.com/will-ryan-airport-transfers/)**
+Visit at: **[cancunconciergedmc.com/loris-birthday-celebration](https://cancunconciergedmc.com/loris-birthday-celebration/)**
 
-Landing page with integrated payments for Airport Transfers services
+Landing page for booking complimentary airport transportation for Lori's Birthday Celebration.
 
 Project type: **client**
 
@@ -46,22 +46,22 @@ Project type: **client**
 
 # Media
 
-![landing](https://github.com/darideveloper/will-ryan-airport-transfers/blob/master/screenshots/landing.png?raw=true)
+![landing](https://github.com/darideveloper/loris-birthday-celebration/blob/master/screenshots/landing.png?raw=true)
 
 # Details
 
-The project have a service dynamic form, who is saved in a backend service.
+The project has a service dynamic form, which is saved in a backend service.
 
-The project is based in [Riviera Maya Airport Transfers](https://github.com/darideveloper/rivieramayaairporttransfers), but without stripe integration. 
+The project is based in [Riviera Maya Airport Transfers](https://github.com/darideveloper/rivieramayaairporttransfers).
 
-The landing page include the following sections:
+The landing page includes the following sections:
 * Header
 * Hero
 * Buy form
 * Our services
 * Footer
 
-The buy form user dynamic data, like prices or available hotels, updated by the user in the same dashboard as the project EZBookingTours Store.
+The buy form uses dynamic data, like prices or available hotels, updated by the user in the same dashboard as the EZBookingTours Store project.
 
 # Roadmap
 
@@ -76,4 +76,3 @@ The buy form user dynamic data, like prices or available hotels, updated by the 
 * [x] Custom domain
 * [x] Loading spinner
 * [x] Connect to django dashboard
-

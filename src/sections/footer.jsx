@@ -51,13 +51,13 @@ export default function Footer() {
 
         <Widget title="ABOUT US" extraClassName="about us max-w-lg sm:order-first">
           <p className="text-white text-md">
-          Experience the beauty of the Mexican Caribbean with our premium transportation services. Our modern fleet of vehicles will take you to your destination in style and comfort. With our convenient online booking system, planning your transportation has never been easier. Trust us to get you to your destination safely and on time. Don't miss out on the adventure - book your transportation with us today!
+          Join us in celebrating Lori&apos;s Birthday! We&apos;ve arranged complimentary airport transportation to make your journey as seamless as possible. Please book your transfer below and let us know your flight details so we can ensure a smooth arrival. We can&apos;t wait to celebrate with you!
           </p>
         </Widget>
       </section>
 
       <small className="text-white text-xsm text-center w-full block pt-10 pb-5">
-        2023 - All Rights Reserved Cancun Concierge &nbsp; | &nbsp; Powered by <a className="hover:text-gold" href="https://api.whatsapp.com/send?phone=5214493402622" target="_blank">Dari Developer</a>
+        2026 - All Rights Reserved Lori&apos;s Birthday Celebration &nbsp; | &nbsp; Powered by <a className="hover:text-gold" href="https://api.whatsapp.com/send?phone=5214493402622" target="_blank">Dari Developer</a>
       </small>
     </footer>
   )

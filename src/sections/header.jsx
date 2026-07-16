@@ -9,7 +9,7 @@ export default function Header () {
         
         <Logo 
           image='page-logo-trans.png'
-          alt='cancun concierge logo'
+          alt="Lori's Birthday Celebration logo"
           width='200px'
         />
         <Menu/>

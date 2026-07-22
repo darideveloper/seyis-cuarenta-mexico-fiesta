@@ -5,7 +5,7 @@ export default function Service () {
   return (
     <section className="services container" id='services'>
       <Subtitle 
-        text='Our services include'
+        text='Our Services Include'
       />
       <ServiceCards/>
     </section>

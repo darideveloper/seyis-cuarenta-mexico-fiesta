@@ -49,7 +49,7 @@ export default function Footer() {
           </address>
         </Widget>
 
-        <Widget title="ABOUT US" extraClassName="about us max-w-lg sm:order-first">
+        <Widget title="About Us" extraClassName="about us max-w-lg sm:order-first">
           <p className="text-white text-md">
           Join us in celebrating Lori&apos;s Birthday! We&apos;ve arranged complimentary airport transportation to make your journey as seamless as possible. Please book your transfer below and let us know your flight details so we can ensure a smooth arrival. We can&apos;t wait to celebrate with you!
           </p>

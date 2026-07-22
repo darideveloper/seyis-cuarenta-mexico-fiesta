@@ -8,14 +8,14 @@ export default function Hero () {
 
         <div className="text-wrapper mt-16 mb-10 w-full z-10 text-center flex flex-col items-center justify-center sm:absolute sm:top-1/2 sm:left-1/2 sm:-translate-x-1/2 sm:-translate-y-1/2 sm:m-0">
           <h2 className='py-2 px-4 text-lg sm:text-2xl md:text-4xl lg:text-6xl leading-snug bg-white inline-block lg:py-5 lg:px-20 '>
-            Complimentary transportation will be provided
+            Complimentary Transportation Will Be Provided
             <br />
             <span
               className={`
                 text-sm sm:text-lg md:text-2xl lg:text-4xl
               `}
             >
-              Please book your airport transportation at your earliest convenience
+              Please Book Your Airport Transportation at Your Earliest Convenience
             </span>
           </h2>
         </div>
@@ -30,7 +30,7 @@ export default function Hero () {
             my-20 sm:mb-28 lg:mb-32
           `}
         >
-          LORI&apos;S BIRTHDAY CELEBRATION
+          Lori&apos;s Birthday Celebration
         </h1>
       </div>
     </section>

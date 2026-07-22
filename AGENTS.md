@@ -16,10 +16,10 @@ Landing page for booking complimentary airport transportation for Lori's Birthda
 
 | Command | Action |
 |---------|--------|
-| `npm run dev` | Start dev server (Vite HMR) |
-| `npm run build` | Production build to `./dist` |
-| `npm run lint` | ESLint on `src/`, zero warnings |
-| `npm run preview` | Preview production build |
+| `pnpm dev` | Start dev server (Vite HMR) |
+| `pnpm build` | Production build to `./dist` |
+| `pnpm lint` | ESLint on `src/`, zero warnings |
+| `pnpm preview` | Preview production build |
 
 ## Code Conventions
 

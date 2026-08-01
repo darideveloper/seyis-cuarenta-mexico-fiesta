@@ -20,7 +20,7 @@ export default function Hero () {
           </h2>
         </div>
 
-        <img src="./imgs/hero.jpg" alt="Lori's Birthday Celebration van" className="w-full"/>
+        <img src="./imgs/hero.webp" alt="Lori's Birthday Celebration van" className="w-full"/>
 
         <h1
           className={`

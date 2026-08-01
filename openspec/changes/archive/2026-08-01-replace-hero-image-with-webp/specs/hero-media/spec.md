@@ -1,4 +1,4 @@
-## ADDED Requirements
+## MODIFIED Requirements
 
 ### Requirement: Hero image asset management
 
@@ -13,11 +13,3 @@ The system SHALL reference the hero image via `./imgs/hero.webp` in the hero com
 #### Scenario: Image copies to production build
 - **WHEN** `npm run build` completes
 - **THEN** the file `dist/imgs/hero.webp` exists
-
-### Requirement: Alt text reflects image content
-
-The `<img>` tag alt attribute SHALL describe the actual image content.
-
-#### Scenario: Alt text updated with new image
-- **WHEN** the hero component renders
-- **THEN** the `<img>` alt attribute contains "van"

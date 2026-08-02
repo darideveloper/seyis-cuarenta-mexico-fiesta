@@ -1,78 +1,75 @@
-<div><a href='https://github.com/darideveloper/loris-birthday-celebration/blob/master/LICENSE' target='_blank'>
-                <img src='https://img.shields.io/github/license/darideveloper/loris-birthday-celebration.svg?style=for-the-badge' alt='MIT License' height='30px'/>
-            </a><a href='https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/' target='_blank'>
-                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=' alt='Linkedin' height='30px'/>
-            </a><a href='https://t.me/darideveloper' target='_blank'>
-                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=' alt='Telegram' height='30px'/>
-            </a><a href='https://github.com/darideveloper' target='_blank'>
-                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=' alt='Github' height='30px'/>
-            </a><a href='https://www.fiverr.com/darideveloper' target='_blank'>
-                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Fiverr&color=222222&logo=Fiverr&logoColor=1DBF73&label=' alt='Fiverr' height='30px'/>
-            </a><a href='https://discord.com/users/992019836811083826' target='_blank'>
-                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=' alt='Discord' height='30px'/>
-            </a><a href='mailto:darideveloper@gmail.com?subject=Hello Dari Developer' target='_blank'>
-                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=' alt='Gmail' height='30px'/>
-            </a><a href='https://www.twitch.tv/darideveloper' target='_blank'>
-                <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Twitch&color=b9a3e3&logo=Twitch&logoColor=ffffff&label=' alt='Twitch' height='30px'/>
-            </a></div><div align='center'><br><br><img src='https://github.com/darideveloper/loris-birthday-celebration/blob/master/public/imgs/favicon.png?raw=true' alt="Lori's Birthday Celebration" height='80px'/>
+# Lori's Birthday Celebration — Airport Transfer Booking
 
+Landing page for booking complimentary airport transportation for Lori's Birthday Celebration, part of the Cancun Concierge DMC ecosystem.
 
+## Tech Stack
 
-# Lori's Birthday Celebration
+- **React 18** — single-page application
+- **Vite 4** — build tooling
+- **Tailwind CSS + Sass** — styling
+- **SweetAlert2** — success dialogs
 
-Visit at: **[cancunconciergedmc.com/loris-birthday-celebration](https://cancunconciergedmc.com/loris-birthday-celebration/)**
+## Features
 
-Landing page for booking complimentary airport transportation for Lori's Birthday Celebration.
+- Single-page booking flow (transport type, guest info, arriving/departing details)
+- Data-driven transport options and hotels from the Django backend API
+- Complimentary event: prices hidden, no payment step
+- Guest email capture with backend confirmation email
+- Services section, footer with contact widgets and WhatsApp link
 
-Project type: **client**
+## Setup
 
-</div><br><details>
-            <summary>Table of Contents</summary>
-            <ol>
-<li><a href='#buildwith'>Build With</a></li>
-<li><a href='#relatedprojects'>Related Projects</a></li>
-<li><a href='#media'>Media</a></li>
-<li><a href='#details'>Details</a></li>
-<li><a href='#roadmap'>Roadmap</a></li></ol>
-        </details><br>
+```sh
+pnpm install
+pnpm dev
+pnpm build
+```
 
-# Build with
+---
 
-<div align='center'><a href='https://developer.mozilla.org/en-US/docs/Web/HTML' target='_blank'> <img src='https://i.imgur.com/OitgDfl.jpeg' alt='HTML + CSS' title='HTML + CSS' height='50px'/> </a><a href='https://react.dev/' target='_blank'> <img src='https://cdn.svgporn.com/logos/react.svg' alt='React' title='React' height='50px'/> </a><a href='https://sass-lang.com/' target='_blank'> <img src='https://cdn.svgporn.com/logos/sass.svg' alt='Sass' title='Sass' height='50px'/> </a><a href='https://www.w3schools.com/js/js_es6.asp' target='_blank'> <img src='https://cdn.svgporn.com/logos/javascript.svg' alt='JavaScript' title='JavaScript' height='50px'/> </a><a href='https://tailwindcss.com/' target='_blank'> <img src='https://cdn.svgporn.com/logos/tailwindcss-icon.svg' alt='Tailwind CSS' title='Tailwind CSS' height='50px'/> </a><a href='https://vitejs.dev/guide/' target='_blank'> <img src='https://cdn.svgporn.com/logos/vitejs.svg' alt='Vite' title='Vite' height='50px'/> </a></div>
+## Contact
 
-# Related projects
+Developed by [Dari Developer](https://darideveloper.com)
 
-<div align='center'><a href='https://github.com/darideveloper/rivieramayaairporttransfers' target='_blank'> <img src='https://rivieramayaairporttransfers.com/imgs/page-logo-trans.png' alt='Riviera Maya Airport Transfers' title='Riviera Maya Airport Transfers' height='50px'/> </a><a href='https://github.com/darideveloper/cancun-concierge' target='_blank'> <img src='https://github.com/darideveloper/cancun-concierge/raw/master/imgs/logo.png' alt='Cancun Concierge' title='Cancun Concierge' height='50px'/> </a><a href='https://github.com/darideveloper/sarina-abhi-airport-transfers' target='_blank'> <img src='https://cancunconciergedmc.com/sarina-abhi-airport-transfers/imgs/page-logo.png' alt='Sarina Abhi Airport Transfers' title='Sarina Abhi Airport Transfers' height='50px'/> </a><a href='https://github.com/darideveloper/ezbookingtours-store' target='_blank'> <img src='https://ezbookingtours.com/wp-content/uploads/2022/04/EZ-Booking-Tours-Logo.png' alt='Ezbookingtours Store' title='Ezbookingtours Store' height='50px'/> </a></div>
+- 🌐 [darideveloper.com](https://darideveloper.com)
+- 💬 [WhatsApp](https://api.whatsapp.com/send?phone=5214493402622)
+- 📂 [View project in portfolio](https://darideveloper.com/portafolio/cancunconcierge)
 
-# Media
+---
 
-![landing](https://github.com/darideveloper/loris-birthday-celebration/blob/master/screenshots/landing.png?raw=true)
+# Celebración de Cumpleaños de Lori — Reserva de traslado aeroportuario
 
-# Details
+Landing page para reservar transporte aeroportuario de cortesía para la celebración del cumpleaños de Lori, parte del ecosistema de Cancun Concierge DMC.
 
-The project has a service dynamic form, which is saved in a backend service.
+## Tech Stack
 
-The project is based in [Riviera Maya Airport Transfers](https://github.com/darideveloper/rivieramayaairporttransfers).
+- **React 18** — aplicación de una sola página
+- **Vite 4** — herramientas de build
+- **Tailwind CSS + Sass** — estilos
+- **SweetAlert2** — diálogos de éxito
 
-The landing page includes the following sections:
-* Header
-* Hero
-* Buy form
-* Our services
-* Footer
+## Features
 
-The buy form uses dynamic data, like prices or available hotels, updated by the user in the same dashboard as the EZBookingTours Store project.
+- Flujo de reserva en una sola página (tipo de traslado, datos del huésped, detalles de llegada/salida)
+- Opciones de transporte y hoteles provenientes de la API del backend Django
+- Evento de cortesía: precios ocultos, sin paso de pago
+- Captura del correo del huésped con correo de confirmación del backend
+- Sección de servicios, footer con contactos y enlace de WhatsApp
 
-# Roadmap
+## Setup
 
-* [x] Layout and responsive
-* [x] Select transport type
-* [x] Custom tailwind colors
-* [x] Dynamic arriving and departing forms
-* [x] React hooks
-* [x] Custom scroll bar
-* [x] Hover effects
-* [x] Auto deploy
-* [x] Custom domain
-* [x] Loading spinner
-* [x] Connect to django dashboard
+```sh
+pnpm install
+pnpm dev
+pnpm build
+```
+
+---
+
+## Contacto
+
+Desarrollado por [Dari Developer](https://darideveloper.com)
+
+- 🌐 [darideveloper.com](https://darideveloper.com)
+- 💬 [WhatsApp](https://api.whatsapp.com/send?phone=5214493402622)
+- 📂 [Ver proyecto en el portafolio](https://darideveloper.com/portafolio/cancunconcierge)

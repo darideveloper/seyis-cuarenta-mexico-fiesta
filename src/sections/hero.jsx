@@ -20,7 +20,7 @@ export default function Hero () {
           </h2>
         </div>
 
-        <img src="./imgs/hero.webp" alt="Lori's Birthday Celebration van" className="w-full"/>
+        <img src="./imgs/hero.webp" alt="Kanai resort pools at night, Riviera Maya, Cancún" className="w-full"/>
 
         <h1
           className={`
@@ -30,7 +30,7 @@ export default function Hero () {
             my-20 sm:mb-28 lg:mb-32
           `}
         >
-          Lori&apos;s Sesenta Mexico Fiesta
+          Seyi&apos;s Cuarenta Mexico Fiesta
         </h1>
       </div>
     </section>

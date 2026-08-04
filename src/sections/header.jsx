@@ -9,7 +9,7 @@ export default function Header () {
         
         <Logo 
           image='page-logo-trans.png'
-          alt="Lori's Birthday Celebration logo"
+          alt="Seyi's Cuarenta Mexico Fiesta logo"
           width='200px'
         />
         <Menu/>

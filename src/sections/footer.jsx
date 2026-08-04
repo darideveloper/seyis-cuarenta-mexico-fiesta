@@ -51,13 +51,13 @@ export default function Footer() {
 
         <Widget title="About Us" extraClassName="about us max-w-lg sm:order-first">
           <p className="text-white text-md">
-          Join us in celebrating Lori&apos;s Birthday! We&apos;ve arranged complimentary airport transportation to make your journey as seamless as possible. Please book your transfer below and let us know your flight details so we can ensure a smooth arrival. We can&apos;t wait to celebrate with you!
+          Join us in celebrating Seyi&apos;s Cuarenta Mexico Fiesta! We&apos;ve arranged complimentary airport transportation to make your journey as seamless as possible. Please book your transfer below and let us know your flight details so we can ensure a smooth arrival. We can&apos;t wait to celebrate with you!
           </p>
         </Widget>
       </section>
 
       <small className="text-white text-xsm text-center w-full block pt-10 pb-5">
-        2026 - All Rights Reserved Lori&apos;s Birthday Celebration &nbsp; | &nbsp; Powered by <a className="hover:text-gold" href="https://api.whatsapp.com/send?phone=5214493402622" target="_blank" rel="noreferrer">Dari Developer</a>
+         2026 - All Rights Reserved Seyi&apos;s Cuarenta Mexico Fiesta &nbsp; | &nbsp; Powered by <a className="hover:text-gold" href="https://api.whatsapp.com/send?phone=5214493402622" target="_blank" rel="noreferrer">Dari Developer</a>
       </small>
     </footer>
   )

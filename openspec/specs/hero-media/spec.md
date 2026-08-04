@@ -20,4 +20,4 @@ The `<img>` tag alt attribute SHALL describe the actual image content.
 
 #### Scenario: Alt text updated with new image
 - **WHEN** the hero component renders
-- **THEN** the `<img>` alt attribute contains "van"
+- **THEN** the `<img>` alt attribute contains "Kanai"

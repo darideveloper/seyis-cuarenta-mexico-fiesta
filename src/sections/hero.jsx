@@ -30,7 +30,7 @@ export default function Hero () {
             my-20 sm:mb-28 lg:mb-32
           `}
         >
-          Lori&apos;s Birthday Celebration
+          Lori&apos;s Sesenta Mexico Fiesta
         </h1>
       </div>
     </section>

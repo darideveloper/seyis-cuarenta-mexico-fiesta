@@ -333,7 +333,7 @@ export default function Form() {
             {total}.00 USD
           </span>
         </p>
-        <input type="submit" value="Reserve Now" className="no-collect w-48 mx-auto mt-10 block bg-blue border-blue border-2 text-gold py-3 text-2xl font-bold cursor-pointer rounded-xl transition-all duration-300 hover:rounded-3xl hover:bg-white hover:text-blue" />
+        <input type="submit" value="Reserve Now" className="no-collect w-48 mx-auto mt-10 block bg-black border-gold border-2 text-gold py-3 text-2xl font-bold cursor-pointer rounded-xl transition-all duration-300 hover:rounded-3xl hover:bg-gold hover:text-black" />
 
       </form>
     </section>

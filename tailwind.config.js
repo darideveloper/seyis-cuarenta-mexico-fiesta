@@ -4,11 +4,18 @@ export default {
   theme: {
     extend: {
       colors: {
-        "blue": "#4F6A9E",
         "black": "#1a1a1a",
         "white": "#ffffff",
-        "gold": "#C8B568"
-      }
+        "cream": "#F9F5ED",
+        "gold": "#C9A24B",
+        "gold-light": "#E8D5A4",
+        "gold-dark": "#8E6A23"
+      },
+      fontFamily: {
+        "display": ["Playfair Display", "serif"],
+        "sans": ["Montserrat", "sans-serif"],
+        "script": ["Great Vibes", "cursive"]
+      },
     },
   },
   plugins: [],

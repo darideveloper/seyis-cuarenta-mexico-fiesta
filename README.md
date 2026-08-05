@@ -1,6 +1,6 @@
-# Lori's Birthday Celebration — Airport Transfer Booking
+# Seyi's Cuarenta Mexico Fiesta — Airport Transfer Booking
 
-Landing page for booking complimentary airport transportation for Lori's Birthday Celebration, part of the Cancun Concierge DMC ecosystem.
+Landing page for booking complimentary airport transportation for Seyi's Cuarenta Mexico Fiesta, part of the Cancun Concierge DMC ecosystem.
 
 ## Tech Stack
 
@@ -37,9 +37,9 @@ Developed by [Dari Developer](https://darideveloper.com)
 
 ---
 
-# Celebración de Cumpleaños de Lori — Reserva de traslado aeroportuario
+# Celebración de los Cuarenta de Seyi — Reserva de traslado aeroportuario
 
-Landing page para reservar transporte aeroportuario de cortesía para la celebración del cumpleaños de Lori, parte del ecosistema de Cancun Concierge DMC.
+Landing page para reservar transporte aeroportuario de cortesía para la celebración de los cuarenta de Seyi, parte del ecosistema de Cancun Concierge DMC.
 
 ## Tech Stack
 

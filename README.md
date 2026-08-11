@@ -1,6 +1,6 @@
-# Seyi's Cuarenta Mexico Fiesta — Airport Transfer Booking
+# Seyi's Birthday Celebration — Airport Transfer Booking
 
-Landing page for booking complimentary airport transportation for Seyi's Cuarenta Mexico Fiesta, part of the Cancun Concierge DMC ecosystem.
+Landing page for booking complimentary airport transportation for Seyi's Birthday Celebration, part of the Cancun Concierge DMC ecosystem.
 
 ## Tech Stack
 

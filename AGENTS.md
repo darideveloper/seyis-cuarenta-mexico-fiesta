@@ -1,11 +1,11 @@
-# Project: Seyi's Cuarenta Mexico Fiesta
+# Project: Seyi's Birthday Celebration
 
-Landing page for booking complimentary airport transportation for Seyi's Cuarenta Mexico Fiesta. React 18 + Vite 4 + Tailwind CSS 3 + Sass.
+Landing page for booking complimentary airport transportation for Seyi's Birthday Celebration. React 18 + Vite 4 + Tailwind CSS 3 + Sass.
 
 ## Tech Stack
 
 - **React 18** with JSX (no TypeScript)
-- **Vite 4** build tool, base path `/seyis-cuarenta-mexico-fiesta/`
+- **Vite 4** build tool, base path `/seyis-birthday-celebration/`
 - **Tailwind CSS 3** with custom colors: `blue` (#4F6A9E), `black` (#1a1a1a), `white` (#ffffff), `gold` (#C8B568)
 - **Sass** (indented `.sass` syntax, no braces/semicolons)
 - **SweetAlert2** for form submission feedback

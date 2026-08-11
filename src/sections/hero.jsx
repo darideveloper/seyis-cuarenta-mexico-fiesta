@@ -30,7 +30,7 @@ export default function Hero () {
             my-20 sm:mb-28 lg:mb-32
           `}
         >
-          Seyi&apos;s Cuarenta Mexico Fiesta
+          Seyi&apos;s Birthday Celebration
         </h1>
       </div>
     </section>

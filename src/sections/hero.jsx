@@ -30,7 +30,23 @@ export default function Hero () {
             my-20 sm:mb-28 lg:mb-32
           `}
         >
-          Seyi&apos;s Birthday Celebration
+          Seyi&apos;s 4-0 Birthday Celebration
+          <br />
+          <span
+            className={`
+              text-sm sm:text-lg md:text-2xl lg:text-3xl
+            `}
+          >
+            September 17-20th, 2026
+          </span>
+          <br />
+          <span
+            className={`
+              text-sm sm:text-lg md:text-2xl lg:text-3xl
+            `}
+          >
+            The Riviera Maya at Kanai Edition
+          </span>
         </h1>
       </div>
     </section>

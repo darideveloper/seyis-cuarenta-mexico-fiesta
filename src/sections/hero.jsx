@@ -20,7 +20,7 @@ export default function Hero () {
           </h2>
         </div>
 
-        <img src="./imgs/hero.webp" alt="Kanai resort pools at night, Riviera Maya, Cancún" className="w-full"/>
+        <img src="./imgs/hero-v2.webp" alt="Kanai resort pools at night, Riviera Maya, Cancún" className="w-full"/>
 
         <h1
           className={`
